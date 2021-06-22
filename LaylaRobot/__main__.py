@@ -87,7 +87,7 @@ buttons = [
     [
         InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="layla_"),
         InlineKeyboardButton(
-            text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{@kannada_friendly_chat}"
+            text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/kannada_friendly_chat"
         ),
     ],
     [
